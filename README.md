@@ -4,7 +4,9 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 
 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) and [Mathematics for machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/info). 
 
-👀 Check out my notes and scripts about [Reliability-based Design Optimization](https://github.com/nophibiton/RBDO-Matlab-Double-Loop.git).
+👀 Check out my notes and scripts about:
+- [Reliability-based Design Optimization](https://github.com/nophibiton/RBDO-Matlab-Double-Loop.git)
+- [System Reliability bounds using Linear Programming](https://github.com/nophibiton/system-reliability-using-LP)
 
 📝 You can check my previous scientific work on:
 - [A heuristic optimization considering probabilistic constraints via an equivalent single variable Pearson distribution system](https://doi.org/10.1016/j.asoc.2019.03.021)
