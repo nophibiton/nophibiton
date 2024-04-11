@@ -7,6 +7,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 👀 Check out my notes and scripts about:
 - [Reliability-based Design Optimization](https://github.com/nophibiton/RBDO-Matlab-Double-Loop.git)
 - [System Reliability bounds using Linear Programming](https://github.com/nophibiton/system-reliability-using-LP)
+- [System reliability analysis of simple bridge network](https://github.com/nophibiton/a-simple-bridge-network-example)
 - [Coupling of ZEUS-NL and FERUM](https://github.com/nophibiton/ZEUS-NL-and-FERUM-coupling)
 - [Homeworks in Geotechnical Earthquake Engineering class](https://github.com/nophibiton/geotechnical-earthquake-engg)
 
