@@ -10,6 +10,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 3. [System reliability analysis of simple bridge network](https://github.com/nophibiton/a-simple-bridge-network-example)
 4. [Coupling of ZEUS-NL and FERUM](https://github.com/nophibiton/ZEUS-NL-and-FERUM-coupling)
 5. [Homeworks in Geotechnical Earthquake Engineering class](https://github.com/nophibiton/geotechnical-earthquake-engg)
+6. [Sequential compounding method](https://github.com/nophibiton/sequential-compounding-method/tree/main)
 
 📝 You can check my previous scientific work on:
 - [A heuristic optimization considering probabilistic constraints via an equivalent single variable Pearson distribution system](https://doi.org/10.1016/j.asoc.2019.03.021)
