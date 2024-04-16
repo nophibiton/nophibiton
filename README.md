@@ -19,8 +19,11 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 - [Probabilistic failure path approach on structural system-reliabilitybased design optimization of fatigue-induced failure](http://www.tara.tcd.ie/bitstream/handle/2262/103435/submission_358.pdf?sequence=1)
 - [Structural System Reliability-Based Design Optimization Considering Fatigue Limit State](http://www.i-asem.org/publication_conf/asem23/4.SS/1.MS/[0109].pdf)
 
-:mortar_board:
-[Introduction to Programming with MATLAB](https://coursera.org/share/8d0c99e4ccdb938b4bedaa2b8358a97b)
+:mortar_board: Online courses I finished previously:
+- [Introduction to Programming with MATLAB](https://coursera.org/share/8d0c99e4ccdb938b4bedaa2b8358a97b)
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/50a467079495825ea0e3225e74cf3b34)
+- [Python Data Structures](https://coursera.org/share/e3e968b333cb1c9e3b76e56591e81b5d)
+- 
 
 #### 🔗 Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nophibiton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nophi-biton/)  
