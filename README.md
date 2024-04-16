@@ -19,7 +19,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 - [Probabilistic failure path approach on structural system-reliabilitybased design optimization of fatigue-induced failure](http://www.tara.tcd.ie/bitstream/handle/2262/103435/submission_358.pdf?sequence=1)
 - [Structural System Reliability-Based Design Optimization Considering Fatigue Limit State](http://www.i-asem.org/publication_conf/asem23/4.SS/1.MS/[0109].pdf)
 
-@fa-file-certificate 
+:mortar_board:
 [Introduction to Programming with MATLAB](https://coursera.org/share/8d0c99e4ccdb938b4bedaa2b8358a97b)
 
 #### 🔗 Connect with me
