@@ -22,5 +22,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 #### 🔗 Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nophibiton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nophi-biton/)  
 
+[Introduction to Programming with MATLAB](https://coursera.org/share/8d0c99e4ccdb938b4bedaa2b8358a97b)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nophibiton)](https://github.com/anuraghazra/github-readme-stats)
 
