@@ -23,7 +23,11 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 - [Introduction to Programming with MATLAB](https://coursera.org/share/8d0c99e4ccdb938b4bedaa2b8358a97b)
 - [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/50a467079495825ea0e3225e74cf3b34)
 - [Python Data Structures](https://coursera.org/share/e3e968b333cb1c9e3b76e56591e81b5d)
-- 
+- [Machine Learning](https://coursera.org/share/44522c5899e3541c52f460e8a39642e2)
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/98ebb0aa4585e60ed57d8cc7eaaa54f5)
+- [Advanced Learning Algorithms](https://coursera.org/share/7f040234294485e04d8a3618fbba8cf1)
+- [Neural Networks and Deep Learning](https://coursera.org/share/207203c152aa3983b44cc5b9da413b5b)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/245366a0d3e74c428d8a3629e0c72e2d)
 
 #### 🔗 Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nophibiton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nophi-biton/)  
