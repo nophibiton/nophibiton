@@ -5,19 +5,20 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) and [Mathematics for machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/info). 
 
 👀 Check out my notes and scripts about:
-Structural reliability:
+
+**Structural reliability:**
 1. [Sequential compounding method](https://github.com/nophibiton/sequential-compounding-method/tree/main)
 2. [System Reliability bounds using Linear Programming](https://github.com/nophibiton/system-reliability-using-LP)
 3. [System reliability analysis of simple bridge network](https://github.com/nophibiton/a-simple-bridge-network-example)
 4. [Coupling of ZEUS-NL and FERUM](https://github.com/nophibiton/ZEUS-NL-and-FERUM-coupling)
 
-Reliability-based Design Optimization / Structural Optimization:
+**Reliability-based Design Optimization / Structural Optimization:**
 1. [Optimization Algorithms](https://github.com/nophibiton/optimization-algorithms/tree/main)
 2. [Reliability-based Design Optimization](https://github.com/nophibiton/RBDO-Matlab-Double-Loop.git)
 
-Structural Engineering:
+**Structural Engineering:**
 
-Others:
+**Others:**
 1. [Homeworks in Geotechnical Earthquake Engineering class](https://github.com/nophibiton/geotechnical-earthquake-engg)
 
 
