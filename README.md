@@ -17,7 +17,8 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 2. [Reliability-based Design Optimization](https://github.com/nophibiton/RBDO-Matlab-Double-Loop.git)
 
 **Structural Engineering:**
-
+1. [Stiffness method for 2D planar truss using python](https://github.com/nophibiton/Truss-Analysis-Ten-Bar-Truss/tree/main)
+   
 **Others:**
 1. [Homeworks in Geotechnical Earthquake Engineering class](https://github.com/nophibiton/geotechnical-earthquake-engg)
 
