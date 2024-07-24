@@ -18,6 +18,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 
 **Structural Engineering:**
 1. [Stiffness method for 2D planar truss using python](https://github.com/nophibiton/Truss-Analysis-Ten-Bar-Truss/tree/main)
+2. [OpenSeesPy tutorial](https://github.com/nophibiton/openseespy-tutorials/tree/main)
    
 **Others:**
 1. [Homeworks in Geotechnical Earthquake Engineering class](https://github.com/nophibiton/geotechnical-earthquake-engg)
