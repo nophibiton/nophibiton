@@ -11,6 +11,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 2. [System Reliability bounds using Linear Programming](https://github.com/nophibiton/system-reliability-using-LP)
 3. [System reliability analysis of simple bridge network](https://github.com/nophibiton/a-simple-bridge-network-example)
 4. [Coupling of ZEUS-NL and FERUM](https://github.com/nophibiton/ZEUS-NL-and-FERUM-coupling)
+5. [AK- MCS Active Learning reliability method](https://github.com/nophibiton/Struct_Reliability/tree/main/AK_MCS)
 
 **Reliability-based Design Optimization / Structural Optimization:**
 1. [Optimization Algorithms](https://github.com/nophibiton/optimization-algorithms/tree/main)
