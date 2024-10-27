@@ -7,7 +7,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 ### 👀 Check out my notes and scripts about:
 
 **Structural reliability:**
-1. [Sequential compounding method](https://github.com/nophibiton/Struct_Reliability/tree/main/SCM))
+1. [Sequential compounding method](https://github.com/nophibiton/Struct_Reliability/tree/main/SCM)
 2. [System Reliability bounds using Linear Programming](https://github.com/nophibiton/system-reliability-using-LP)
 3. [System reliability analysis of simple bridge network](https://github.com/nophibiton/a-simple-bridge-network-example)
 4. [Coupling of ZEUS-NL and FERUM](https://github.com/nophibiton/ZEUS-NL-and-FERUM-coupling)
