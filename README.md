@@ -2,7 +2,7 @@
 I am a civil engineer that is passionate in expanding my expertise in the field of structural reliability and optimization. I am also very interested in applying AI and machine learning into different structural engineering problems.
 
 
-### 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) and [Mathematics for machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/info). 
+### 🌱 I’m currently learning [Machine Learning](https://www.statlearning.com/).
 
 ### 👀 Check out my notes and scripts about:
 
