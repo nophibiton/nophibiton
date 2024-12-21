@@ -33,18 +33,33 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 - [Structural System Reliability-Based Design Optimization](http://www.i-asem.org/publication_conf/asem23/4.SS/1.MS/[0109].pdf)
 
 ### :mortar_board: Online courses I finished previously:
-- [Introduction to Programming with MATLAB](https://coursera.org/share/8d0c99e4ccdb938b4bedaa2b8358a97b)
-- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/50a467079495825ea0e3225e74cf3b34)
-- [Python Data Structures](https://coursera.org/share/e3e968b333cb1c9e3b76e56591e81b5d)
+**2024**
+- [ASEP Coding and optimization](https://drive.google.com/file/d/1GVwXE6Tp6HImz6ZkKfYIkqmtWabyFvKD/view?usp=sharing)
+
+**2023**
 - [Deep Learning Prerequisites: Linear Regression in Python](https://www.udemy.com/certificate/UC-5582e073-bac0-4006-925e-461f35baab8f/)
+- [Neural Networks and Deep Learning](https://coursera.org/share/207203c152aa3983b44cc5b9da413b5b)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/245366a0d3e74c428d8a3629e0c72e2d)
+- [ASEP Structural analysis and design in SAP2000](https://drive.google.com/file/d/1H11x1Bvy3GXsiJgHJXxMjXxyU84_0a52/view?usp=sharing)
+  
+**2022**
 - [Machine Learning](https://coursera.org/share/44522c5899e3541c52f460e8a39642e2)
 - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/98ebb0aa4585e60ed57d8cc7eaaa54f5)
 - [Advanced Learning Algorithms](https://coursera.org/share/7f040234294485e04d8a3618fbba8cf1)
-- [Neural Networks and Deep Learning](https://coursera.org/share/207203c152aa3983b44cc5b9da413b5b)
-- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/245366a0d3e74c428d8a3629e0c72e2d)
-- [Latex for Professional Publications](https://www.udemy.com/certificate/UC-a8ffe252-109f-4778-a77f-edbfebdf9469/)
+  
+**2021**
 - [Optimization probles and algorithms](https://www.udemy.com/certificate/UC-ea728e66-cb96-4522-aa66-e5567ee784a7/)
+- [ASEP Design of Steel SMF](https://drive.google.com/file/d/1H2ejkrWdOnfTeaPkiJBrJVNof5Yc45NO/view?usp=sharing)
+- [ASEP Seismic Design of 5 storey RC](https://drive.google.com/file/d/1GdYskmaSdNtOa9UKczMWs4aYuScxKNxT/view?usp=sharing)
+- [ASEP Welding](https://drive.google.com/file/d/1Gg-pDGITrhWKz1mEAxUUdm5Q_8m_P1AZ/view?usp=sharing)
+  
+**2020**
+- [Introduction to Programming with MATLAB](https://coursera.org/share/8d0c99e4ccdb938b4bedaa2b8358a97b)
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/50a467079495825ea0e3225e74cf3b34)
+- [Python Data Structures](https://coursera.org/share/e3e968b333cb1c9e3b76e56591e81b5d)
+- [Latex for Professional Publications](https://www.udemy.com/certificate/UC-a8ffe252-109f-4778-a77f-edbfebdf9469/)
 - [Mastering SAP2000: From Beginner to Pro](https://www.udemy.com/certificate/UC-01e89666-de1d-466b-9714-5b8ab49f1138/)
+
 
 #### 🔗 Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nophibiton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nophi-biton/)  
