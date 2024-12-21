@@ -26,6 +26,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 
 
 ### 📝 You can check my previous scientific work on:
+- [Probabilistic failure path approach on optimal design of structures against sequential fatigue-induced failure](https://doi.org/10.1007/s00158-024-03918-4)
 - [Structural System Reliability-Based Design Optimization Considering Fatigue Limit State](https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=3&ordernum=1)
 - [A heuristic optimization considering probabilistic constraints via an equivalent single variable Pearson distribution system](https://doi.org/10.1016/j.asoc.2019.03.021)
 - [A heuristic moment-based framework for optimization design under uncertainty](https://doi.org/10.1007/s00366-019-00759-4)
