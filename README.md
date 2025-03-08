@@ -34,6 +34,9 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 - [Structural System Reliability-Based Design Optimization](http://www.i-asem.org/publication_conf/asem23/4.SS/1.MS/[0109].pdf)
 
 ### :mortar_board: Online courses I finished previously:
+**2025**
+- [9th International course on Seismic analysis using OpenSees](https://drive.google.com/file/d/1VhORM9Z6r1aANmWGq-bkr0CS_b0tScHS/view?usp=sharing)
+
 **2024**
 - [ASEP Coding and optimization](https://drive.google.com/file/d/1GVwXE6Tp6HImz6ZkKfYIkqmtWabyFvKD/view?usp=sharing)
 
