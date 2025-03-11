@@ -35,6 +35,7 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 
 ### :mortar_board: Online courses I finished previously:
 **2025**
+- [Introduction to Uncertainty Quantification](https://coursera.org/share/ff87db148fbe7eea2b5d102bc75a1089)
 - [9th International course on Seismic analysis using OpenSees](https://drive.google.com/file/d/1VhORM9Z6r1aANmWGq-bkr0CS_b0tScHS/view?usp=sharing)
 
 **2024**
