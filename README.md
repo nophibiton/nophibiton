@@ -20,7 +20,8 @@ I am a civil engineer that is passionate in expanding my expertise in the field 
 **Structural Engineering:**
 1. [Stiffness method for 2D planar truss](https://github.com/nophibiton/Struct_Engg/tree/main/stiffness-method)
 2. [Stiffness method using python programming](https://github.com/nophibiton/Struct_Engg/tree/main/stiffness-method/stiffness-method-using-python)
-3. [OpenSeesPy tutorial](https://github.com/nophibiton/Struct_Engg/tree/main/openseespy-tutorials)
+3. [Finite element analysis of plane stress problem using Q4 element](https://github.com/nophibiton/Struct_Engg/blob/main/finite-element-method/fem2d_Q4.ipynb)
+4. [OpenSeesPy tutorial](https://github.com/nophibiton/Struct_Engg/tree/main/openseespy-tutorials)
    
 **Others:**
 1. [Homeworks in Geotechnical Earthquake Engineering class](https://github.com/nophibiton/geotechnical-earthquake-engg)
