@@ -1,5 +1,5 @@
 ### Hi there 👋, I am [Nophi](https://www.linkedin.com/in/nophi-biton/).
-I am a civil engineer and a researcher who works in the field of structural reliability and optimal design. In my research, I explore and develop new methodologies to ensure structural safety with explicit consideration of engineering uncertainties.
+I am a civil engineer and a researcher who works in the field of structural reliability and optimal design. In my research, I explore and develop new methodologies to ensure structural safety under the explicit consideration of the effects of engineering uncertainties. By leveraging probabilistic methods, my goal is to ensure safety at the structure level and ultimately promote reliability and resilience at the urban community level. 
 
 
 ### 🌱 I’m currently learning [Machine Learning](https://www.statlearning.com/).
