@@ -1,5 +1,5 @@
 ### Hi there 👋, I am [Nophi](https://www.linkedin.com/in/nophi-biton/).
-I am a civil engineer that is passionate in expanding my expertise in the field of structural reliability and optimization. I am also very interested in applying AI and machine learning into different structural engineering problems.
+I am a civil engineer and a researcher who works in the field of structural reliability and optimal design. In my research, I explore and develop new methodologies to ensure structural safety with explicit consideration of engineering uncertainties.
 
 
 ### 🌱 I’m currently learning [Machine Learning](https://www.statlearning.com/).
