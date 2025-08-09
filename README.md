@@ -55,7 +55,7 @@ I am a civil engineer and a researcher who works in the field of structural reli
 - [Advanced Learning Algorithms](https://coursera.org/share/7f040234294485e04d8a3618fbba8cf1)
   
 **2021**
-- [Optimization probles and algorithms](https://www.udemy.com/certificate/UC-ea728e66-cb96-4522-aa66-e5567ee784a7/)
+- [Optimization problems and algorithms](https://www.udemy.com/certificate/UC-ea728e66-cb96-4522-aa66-e5567ee784a7/)
 - [ASEP Design of Steel SMF](https://drive.google.com/file/d/1H2ejkrWdOnfTeaPkiJBrJVNof5Yc45NO/view?usp=sharing)
 - [ASEP Seismic Design of 5 storey RC](https://drive.google.com/file/d/1GdYskmaSdNtOa9UKczMWs4aYuScxKNxT/view?usp=sharing)
 - [ASEP Welding](https://drive.google.com/file/d/1Gg-pDGITrhWKz1mEAxUUdm5Q_8m_P1AZ/view?usp=sharing)
