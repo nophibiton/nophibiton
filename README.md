@@ -13,11 +13,11 @@ I am a civil engineer and a researcher who works in the field of structural reli
 4. [[Example] System reliability analysis of bridge network](https://github.com/nophibiton/StructuralReliability/tree/main/%5BExample%5D%20System%20reliability%20analysis%20of%20bridge%20network)
 5. [[Example] Coupling of ZEUS-NL and FERUM](https://github.com/nophibiton/StructuralReliability/tree/main/%5BExample%5D%20Coupling%20of%20ZEUS-NL%20and%20FERUM)
 
-**Reliability-based Design Optimization / Structural Optimization:**
-1. [Optimization Algorithms](https://github.com/nophibiton/optimization-algorithms/tree/main)
+**[Structural Optimization](https://github.com/nophibiton/StructuralOptimization/tree/main):**
+1. [Engineering Design Optimization](https://github.com/nophibiton/StructuralOptimization/tree/main/engineering-design-optimization)
 2. [Reliability-based Design Optimization](https://github.com/nophibiton/RBDO-Matlab-Double-Loop.git)
 
-**Structural Engineering:**
+**[Structural Engineering](https://github.com/nophibiton/StructuralEngineering/tree/main):**
 1. [Stiffness method for 2D planar truss](https://github.com/nophibiton/Struct_Engg/tree/main/stiffness-method)
 2. [Stiffness method using python programming](https://github.com/nophibiton/Struct_Engg/tree/main/stiffness-method/stiffness-method-using-python)
 3. [Finite element analysis of plane stress problem using Q4 element](https://github.com/nophibiton/Struct_Engg/blob/main/finite-element-method/fem2d_Q4.ipynb)
