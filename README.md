@@ -6,9 +6,9 @@ I am a civil engineer and a researcher who works in the field of structural reli
 
 ### 👀 Check out my notes and scripts about:
 
-**Structural reliability:**
-1. [Sequential compounding method](https://github.com/nophibiton/Struct_Reliability/tree/main/SCM)
-2. [System Reliability bounds using Linear Programming](https://github.com/nophibiton/Struct_Reliability/tree/main/system-reliability-using-LP)
+**[Structural reliability](https://github.com/nophibiton/StructuralReliability):**
+1. [Sequential compounding method](https://github.com/nophibiton/StructuralReliability/tree/bb0938c7654242f49f815cec3f694f5aea7fa482/1.%20Sequential%20Compounding%20Method)
+2. [System Reliability bounds using Linear Programming](https://github.com/nophibiton/StructuralReliability/tree/bb0938c7654242f49f815cec3f694f5aea7fa482/2.%20System%20reliability%20bounds%20using%20LP)
 3. [System reliability analysis of simple bridge network](https://github.com/nophibiton/Struct_Reliability/tree/main/a-simple-bridge-network-example)
 4. [Coupling of ZEUS-NL and FERUM](https://github.com/nophibiton/Struct_Reliability/tree/main/ZEUS-NL-and-FERUM-coupling)
 5. [AK- MCS Active Learning reliability method](https://github.com/nophibiton/Struct_Reliability/tree/main/AK_MCS)
@@ -37,6 +37,7 @@ I am a civil engineer and a researcher who works in the field of structural reli
 
 ### :mortar_board: Online courses I finished previously:
 **2025**
+- [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/verify/07DH29P2M9BH)
 - [Introduction to Uncertainty Quantification](https://coursera.org/share/ff87db148fbe7eea2b5d102bc75a1089)
 - [9th International course on Seismic analysis using OpenSees](https://drive.google.com/file/d/1VhORM9Z6r1aANmWGq-bkr0CS_b0tScHS/view?usp=sharing)
 
