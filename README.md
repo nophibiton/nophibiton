@@ -36,6 +36,7 @@ I am a civil engineer and a researcher who works in the field of structural reli
 - [Structural System Reliability-Based Design Optimization](http://www.i-asem.org/publication_conf/asem23/4.SS/1.MS/[0109].pdf)
 
 ### :mortar_board: Online courses I finished previously:
+
 **2026**
 -
 
